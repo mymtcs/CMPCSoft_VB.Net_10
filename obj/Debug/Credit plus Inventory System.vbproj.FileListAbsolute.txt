@@ -1,0 +1,859 @@
+D:\Projects\cmpcsoft\CMPCsoft\bin\Debug\CMPCsoft.exe.config
+D:\Projects\cmpcsoft\CMPCsoft\bin\Debug\CMPCsoft.exe
+D:\Projects\cmpcsoft\CMPCsoft\bin\Debug\CMPCsoft.pdb
+D:\Projects\cmpcsoft\CMPCsoft\bin\Debug\CMPCsoft.xml
+D:\Projects\cmpcsoft\CMPCsoft\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Projects\cmpcsoft\CMPCsoft\bin\Debug\Telerik.WinControls.RadDock.xml
+D:\Projects\cmpcsoft\CMPCsoft\bin\Debug\Telerik.WinControls.RadMarkupEditor.xml
+D:\Projects\cmpcsoft\CMPCsoft\bin\Debug\TelerikData.xml
+D:\Projects\cmpcsoft\CMPCsoft\bin\Debug\Telerik_WinControls_Multiview.pdb
+D:\Projects\cmpcsoft\CMPCsoft\bin\Debug\Telerik_WinControls_Multiview.xml
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Credit plus Inventory System.vbprojResolveAssemblyReference.cache
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_importCBUdividen.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_CBUdeposit.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_company_param.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_CBUavg.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_change_Date.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_misutilities.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_override_query.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_query.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_restructured_loan.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_updates.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_add_comaker.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanProcess_teachers.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_recons_amount.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_select_savingsACC.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_camera.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_signature.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_webcam.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.check_usercontrol_password.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.check_savingsinterest_password.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_duplicates.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_help.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_loader.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanProcess_commodity.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_checkloanno.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_randompassword.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_setup_subproduct.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_export_payment_forSMS.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.Form1.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_age_profile.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_matured_loans.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_ctr_incentives.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_LHcoll.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_masterlistSS.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_printID.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_printcbuledger.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_masterlistCBU.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_logs.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_masterlist.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanavailment.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_savingsvalidation.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_edit_cbu_ledger.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_cbudetails.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_edit_savings_acct.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_sss_remittance.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_withdraw_ssspayment.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_post_ssspayment.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_upload_sss.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_savings.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_edit_sssinfo.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_sss_masterFile.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_userexpire.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_assigned_user.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_generate_savingsint.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.initialize_chart.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_newsavings_acct.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_source_of_income.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_company_manager.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_occupation.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.BackupDBSplashScreen.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_managesysparmtr.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_sys_user.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_manageloanterms.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_manageloantype.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_balance_check.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_collectingofficer.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_importdata.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_transferAccount.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_upload_savings.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_usercontrols.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_utilities.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_general_journal_report.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_print_voucher.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_select_due_to.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_coll_status.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_loans_deduction.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_loan_terms.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_chartAccounts.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_checkloans.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_addsitio.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_edit_item.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_check_points.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanProcess_indv.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_adjustingentry.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_postpayment.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_releasestocks.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_center.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_editbrgy.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_address.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.checkserverSplashScreen.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_additem.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_sys_users.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_items.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_receivestocks.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_suspicious.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_rel_stock_list.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_test.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_progres_bar.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.MDIfrm.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_editcenter.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_editmembers.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_newcenter.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_weavedlg.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_profile_by_occupation.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_profile_by_age.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_promissory_panel.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_progress_report.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_abstractsavings.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_printvouch.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_masterlist_members.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_masterlistSA.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_printsavings.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_performance_officer.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_abstractsavings_CF.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_masterlist_loans.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_printledger.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanrel_consumable.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_amortsched.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_abstractofstocks_rel.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_disclosure.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_promisorry_note.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_stocks_report.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_client_status.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_PAR.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_abstractofcoll.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.loadingscreen.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.SplashScreensave.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_accountype.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_cashiering.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frmcheckby.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_cb_reports.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_loantoberel.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_collectionsheet.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_profile_by_gender.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_deletepyment.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_cbuledger.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_CBUwithdrawals.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_edit_savings_ledger.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_deposit.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_grpposting.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_individualposting.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanProcess_grp.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_newloanlist.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_newmembers.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_psbkdtls.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_withdrawals.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.collfrm.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_members.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_delinquency.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanrel.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.loginfrm.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.Resources.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.SplashScreen.resources
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\Credit plus Inventory System.vbproj.GenerateResource.Cache
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\CMPCsoft.exe
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\CMPCsoft.xml
+D:\Projects\cmpcsoft\CMPCsoft\obj\Debug\CMPCsoft.pdb
+D:\Projects\cmpcsoft\CMPCsoft\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Projects\cmpcsoft\CMPCsoft\bin\Debug\ExcelDataReader.dll
+D:\Projects\cmpcsoft\CMPCsoft\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Projects\cmpcsoft\CMPCsoft\bin\Debug\ExcelDataReader.pdb
+D:\Projects\cmpcsoft\CMPCsoft\bin\Debug\ExcelDataReader.xml
+D:\Projects\cmpcsoft\CMPCsoft\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Projects\cmpcsoft\CMPCsoft\bin\Debug\ExcelDataReader.DataSet.xml
+E:\Source Codes\cmpcsoft\CMPCsoft\bin\Debug\CMPCsoft.exe.config
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\CMPCsoft.exe
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\CMPCsoft.xml
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\CMPCsoft.pdb
+E:\Source Codes\cmpcsoft\CMPCsoft\bin\Debug\CMPCsoft.exe
+E:\Source Codes\cmpcsoft\CMPCsoft\bin\Debug\CMPCsoft.pdb
+E:\Source Codes\cmpcsoft\CMPCsoft\bin\Debug\CMPCsoft.xml
+E:\Source Codes\cmpcsoft\CMPCsoft\bin\Debug\ExcelDataReader.DataSet.dll
+E:\Source Codes\cmpcsoft\CMPCsoft\bin\Debug\ExcelDataReader.dll
+E:\Source Codes\cmpcsoft\CMPCsoft\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Source Codes\cmpcsoft\CMPCsoft\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Source Codes\cmpcsoft\CMPCsoft\bin\Debug\ExcelDataReader.pdb
+E:\Source Codes\cmpcsoft\CMPCsoft\bin\Debug\ExcelDataReader.xml
+E:\Source Codes\cmpcsoft\CMPCsoft\bin\Debug\ExcelDataReader.DataSet.pdb
+E:\Source Codes\cmpcsoft\CMPCsoft\bin\Debug\ExcelDataReader.DataSet.xml
+E:\Source Codes\cmpcsoft\CMPCsoft\bin\Debug\Telerik.WinControls.ChartView.xml
+E:\Source Codes\cmpcsoft\CMPCsoft\bin\Debug\Telerik.WinControls.RadDock.xml
+E:\Source Codes\cmpcsoft\CMPCsoft\bin\Debug\Telerik.WinControls.RadMarkupEditor.xml
+E:\Source Codes\cmpcsoft\CMPCsoft\bin\Debug\Telerik.WinControls.Scheduler.xml
+E:\Source Codes\cmpcsoft\CMPCsoft\bin\Debug\TelerikData.xml
+E:\Source Codes\cmpcsoft\CMPCsoft\bin\Debug\Telerik_WinControls_Multiview.pdb
+E:\Source Codes\cmpcsoft\CMPCsoft\bin\Debug\Telerik_WinControls_Multiview.xml
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Credit plus Inventory System.vbprojResolveAssemblyReference.cache
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_importCBUdividen.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_CBUdeposit.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_company_param.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_CBUavg.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_change_Date.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_misutilities.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_override_query.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_query.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_restructured_loan.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_updates.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_add_comaker.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanProcess_teachers.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_recons_amount.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_select_savingsACC.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_camera.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_signature.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_webcam.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.check_usercontrol_password.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.check_savingsinterest_password.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_duplicates.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_help.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_loader.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanProcess_commodity.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_checkloanno.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_randompassword.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_setup_subproduct.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_export_payment_forSMS.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.Form1.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_age_profile.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_matured_loans.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_ctr_incentives.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_LHcoll.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_masterlistSS.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_printID.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_printcbuledger.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_masterlistCBU.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_logs.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_masterlist.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanavailment.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_savingsvalidation.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_edit_cbu_ledger.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_cbudetails.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_edit_savings_acct.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_sss_remittance.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_withdraw_ssspayment.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_post_ssspayment.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_upload_sss.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_savings.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_edit_sssinfo.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_sss_masterFile.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_userexpire.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_assigned_user.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_generate_savingsint.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.initialize_chart.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_newsavings_acct.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_source_of_income.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_company_manager.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_occupation.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.BackupDBSplashScreen.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_managesysparmtr.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_sys_user.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_manageloanterms.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_manageloantype.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_balance_check.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_collectingofficer.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_importdata.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_transferAccount.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_upload_savings.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_usercontrols.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_utilities.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_general_journal_report.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_print_voucher.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_select_due_to.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_coll_status.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_loans_deduction.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_loan_terms.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_chartAccounts.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_checkloans.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_addsitio.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_edit_item.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_check_points.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanProcess_indv.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_adjustingentry.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_postpayment.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_releasestocks.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_center.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_editbrgy.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_address.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.checkserverSplashScreen.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_additem.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_sys_users.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_items.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_receivestocks.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_suspicious.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_rel_stock_list.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_test.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_progres_bar.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.MDIfrm.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_editcenter.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_editmembers.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_newcenter.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_weavedlg.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_profile_by_occupation.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_profile_by_age.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_promissory_panel.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_progress_report.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_abstractsavings.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_printvouch.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_masterlist_members.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_masterlistSA.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_printsavings.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_performance_officer.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_abstractsavings_CF.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_masterlist_loans.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_printledger.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanrel_consumable.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_amortsched.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_abstractofstocks_rel.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_disclosure.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_promisorry_note.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_stocks_report.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_client_status.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_PAR.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_abstractofcoll.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.loadingscreen.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.SplashScreensave.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_accountype.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_cashiering.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frmcheckby.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_cb_reports.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_loantoberel.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_collectionsheet.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_profile_by_gender.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_deletepyment.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_cbuledger.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_CBUwithdrawals.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_edit_savings_ledger.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_deposit.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_grpposting.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_individualposting.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanProcess_grp.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_newloanlist.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_newmembers.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_psbkdtls.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_withdrawals.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.collfrm.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_members.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_delinquency.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanrel.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.loginfrm.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.Resources.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Gsoft.SplashScreen.resources
+E:\Source Codes\cmpcsoft\CMPCsoft\obj\Debug\Credit plus Inventory System.vbproj.GenerateResource.Cache
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Credit plus Inventory System.vbprojResolveAssemblyReference.cache
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_importCBUdividen.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_CBUdeposit.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_company_param.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_CBUavg.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_change_Date.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_misutilities.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_override_query.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_query.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_restructured_loan.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_updates.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_add_comaker.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanProcess_teachers.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_recons_amount.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_select_savingsACC.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_camera.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_signature.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_webcam.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.check_usercontrol_password.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.check_savingsinterest_password.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_duplicates.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_help.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_loader.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanProcess_commodity.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_checkloanno.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_randompassword.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_setup_subproduct.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_export_payment_forSMS.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.Form1.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_age_profile.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_matured_loans.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_ctr_incentives.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_LHcoll.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_masterlistSS.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_printID.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_printcbuledger.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_masterlistCBU.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_logs.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_masterlist.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanavailment.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_savingsvalidation.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_edit_cbu_ledger.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_cbudetails.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_edit_savings_acct.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_sss_remittance.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_withdraw_ssspayment.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_post_ssspayment.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_upload_sss.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_savings.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_edit_sssinfo.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_sss_masterFile.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_userexpire.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_assigned_user.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_generate_savingsint.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.initialize_chart.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_newsavings_acct.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_source_of_income.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_company_manager.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_occupation.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.BackupDBSplashScreen.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_managesysparmtr.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_sys_user.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_manageloanterms.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_manageloantype.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_balance_check.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_collectingofficer.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_importdata.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_transferAccount.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_upload_savings.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_usercontrols.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_utilities.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_general_journal_report.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_print_voucher.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_select_due_to.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_coll_status.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_loans_deduction.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_loan_terms.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_chartAccounts.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_checkloans.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_addsitio.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_edit_item.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_check_points.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanProcess_indv.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_adjustingentry.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_postpayment.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_releasestocks.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_center.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_editbrgy.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_address.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.checkserverSplashScreen.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_additem.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_sys_users.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_items.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_receivestocks.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_suspicious.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_rel_stock_list.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_test.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_progres_bar.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.MDIfrm.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_editcenter.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_editmembers.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_newcenter.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_weavedlg.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_profile_by_occupation.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_profile_by_age.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_promissory_panel.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_progress_report.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_abstractsavings.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_printvouch.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_masterlist_members.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_masterlistSA.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_printsavings.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_performance_officer.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_abstractsavings_CF.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_masterlist_loans.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_printledger.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanrel_consumable.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_amortsched.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_abstractofstocks_rel.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_disclosure.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_promisorry_note.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_stocks_report.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_client_status.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_PAR.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_abstractofcoll.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.loadingscreen.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.SplashScreensave.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_accountype.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_cashiering.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frmcheckby.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_cb_reports.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_loantoberel.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_collectionsheet.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_profile_by_gender.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_deletepyment.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_cbuledger.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_CBUwithdrawals.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_edit_savings_ledger.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_deposit.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_grpposting.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_individualposting.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanProcess_grp.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_newloanlist.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_newmembers.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_psbkdtls.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_withdrawals.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.collfrm.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_members.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_delinquency.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanrel.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.loginfrm.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.Resources.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.SplashScreen.resources
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Credit plus Inventory System.vbproj.GenerateResource.Cache
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\bin\Debug\CMPCsoft.exe.config
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\bin\Debug\CMPCsoft.exe
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\bin\Debug\CMPCsoft.pdb
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\bin\Debug\CMPCsoft.xml
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\bin\Debug\ExcelDataReader.dll
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\bin\Debug\ExcelDataReader.pdb
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\bin\Debug\ExcelDataReader.xml
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\CMPCsoft.exe
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\CMPCsoft.xml
+D:\Coolway TurnOver\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\CMPCsoft.pdb
+F:\Source Codes\CMPCsoft\CMPCsoft\bin\Debug\CMPCsoft.exe.config
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\CMPCsoft.exe
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\CMPCsoft.xml
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\CMPCsoft.pdb
+F:\Source Codes\CMPCsoft\CMPCsoft\bin\Debug\CMPCsoft.exe
+F:\Source Codes\CMPCsoft\CMPCsoft\bin\Debug\CMPCsoft.pdb
+F:\Source Codes\CMPCsoft\CMPCsoft\bin\Debug\CMPCsoft.xml
+F:\Source Codes\CMPCsoft\CMPCsoft\bin\Debug\ExcelDataReader.DataSet.dll
+F:\Source Codes\CMPCsoft\CMPCsoft\bin\Debug\ExcelDataReader.dll
+F:\Source Codes\CMPCsoft\CMPCsoft\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Source Codes\CMPCsoft\CMPCsoft\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\Source Codes\CMPCsoft\CMPCsoft\bin\Debug\ExcelDataReader.pdb
+F:\Source Codes\CMPCsoft\CMPCsoft\bin\Debug\ExcelDataReader.xml
+F:\Source Codes\CMPCsoft\CMPCsoft\bin\Debug\ExcelDataReader.DataSet.pdb
+F:\Source Codes\CMPCsoft\CMPCsoft\bin\Debug\ExcelDataReader.DataSet.xml
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Credit plus Inventory System.vbprojResolveAssemblyReference.cache
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_importCBUdividen.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_CBUdeposit.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_company_param.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_CBUavg.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_change_Date.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_misutilities.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_override_query.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_query.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_restructured_loan.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_updates.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_add_comaker.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanProcess_teachers.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_recons_amount.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_select_savingsACC.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_camera.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_signature.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_webcam.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.check_usercontrol_password.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.check_savingsinterest_password.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_duplicates.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_help.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_loader.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanProcess_commodity.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_checkloanno.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_randompassword.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_setup_subproduct.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_export_payment_forSMS.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.Form1.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_age_profile.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_matured_loans.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_ctr_incentives.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_LHcoll.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_masterlistSS.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_printID.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_printcbuledger.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_masterlistCBU.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_logs.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_masterlist.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanavailment.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_savingsvalidation.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_edit_cbu_ledger.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_cbudetails.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_edit_savings_acct.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_sss_remittance.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_withdraw_ssspayment.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_post_ssspayment.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_upload_sss.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_savings.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_edit_sssinfo.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_sss_masterFile.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_userexpire.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_assigned_user.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_generate_savingsint.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.initialize_chart.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_newsavings_acct.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_source_of_income.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_company_manager.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_occupation.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.BackupDBSplashScreen.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_managesysparmtr.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_sys_user.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_manageloanterms.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_manageloantype.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_balance_check.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_collectingofficer.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_importdata.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_transferAccount.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_upload_savings.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_usercontrols.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_utilities.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_general_journal_report.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_print_voucher.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_select_due_to.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_coll_status.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_loans_deduction.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_loan_terms.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_chartAccounts.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_checkloans.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_addsitio.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_edit_item.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_check_points.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanProcess_indv.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_adjustingentry.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_postpayment.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_releasestocks.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_center.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_editbrgy.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_address.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.checkserverSplashScreen.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_additem.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_sys_users.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_items.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_receivestocks.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_suspicious.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_rel_stock_list.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_test.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_progres_bar.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.MDIfrm.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_editcenter.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_editmembers.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_newcenter.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_weavedlg.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_profile_by_occupation.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_profile_by_age.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_promissory_panel.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_progress_report.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_abstractsavings.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_printvouch.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_masterlist_members.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_masterlistSA.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_printsavings.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_performance_officer.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_abstractsavings_CF.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_masterlist_loans.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_printledger.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanrel_consumable.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_amortsched.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_abstractofstocks_rel.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_disclosure.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_promisorry_note.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_stocks_report.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_client_status.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_PAR.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_abstractofcoll.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.loadingscreen.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.SplashScreensave.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_accountype.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_cashiering.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frmcheckby.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_cb_reports.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_loantoberel.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_collectionsheet.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_profile_by_gender.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_deletepyment.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_cbuledger.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_CBUwithdrawals.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_edit_savings_ledger.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_deposit.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_grpposting.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_individualposting.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanProcess_grp.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_newloanlist.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_newmembers.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_psbkdtls.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_withdrawals.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.collfrm.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_members.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_delinquency.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanrel.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.loginfrm.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.Resources.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.SplashScreen.resources
+F:\Source Codes\CMPCsoft\CMPCsoft\obj\Debug\Credit plus Inventory System.vbproj.GenerateResource.Cache
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\bin\Debug\CMPCsoft.exe.config
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\CMPCsoft.exe
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\CMPCsoft.xml
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\CMPCsoft.pdb
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\bin\Debug\CMPCsoft.exe
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\bin\Debug\CMPCsoft.pdb
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\bin\Debug\CMPCsoft.xml
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\bin\Debug\ExcelDataReader.DataSet.dll
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\bin\Debug\ExcelDataReader.dll
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\bin\Debug\ExcelDataReader.pdb
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\bin\Debug\ExcelDataReader.xml
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\bin\Debug\ExcelDataReader.DataSet.xml
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Credit plus Inventory System.vbprojResolveAssemblyReference.cache
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_importCBUdividen.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_CBUdeposit.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_company_param.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_CBUavg.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_change_Date.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_misutilities.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_override_query.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_query.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_restructured_loan.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_updates.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_add_comaker.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanProcess_teachers.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_recons_amount.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_select_savingsACC.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_camera.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_signature.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_webcam.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.check_usercontrol_password.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.check_savingsinterest_password.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_duplicates.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_help.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_loader.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanProcess_commodity.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_checkloanno.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_randompassword.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_setup_subproduct.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_export_payment_forSMS.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.Form1.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_age_profile.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_matured_loans.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_ctr_incentives.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_LHcoll.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_masterlistSS.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_printID.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_printcbuledger.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_masterlistCBU.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_logs.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_masterlist.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanavailment.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_savingsvalidation.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_edit_cbu_ledger.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_cbudetails.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_edit_savings_acct.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_sss_remittance.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_withdraw_ssspayment.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_post_ssspayment.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_upload_sss.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_savings.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_edit_sssinfo.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_sss_masterFile.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_userexpire.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_assigned_user.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_generate_savingsint.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.initialize_chart.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_newsavings_acct.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_source_of_income.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_company_manager.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_occupation.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.BackupDBSplashScreen.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_managesysparmtr.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_sys_user.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_manageloanterms.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_manageloantype.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_balance_check.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_collectingofficer.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_importdata.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_transferAccount.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_upload_savings.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_usercontrols.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_utilities.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_general_journal_report.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_print_voucher.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_select_due_to.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_coll_status.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_loans_deduction.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_loan_terms.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_chartAccounts.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_checkloans.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_addsitio.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_edit_item.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_check_points.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanProcess_indv.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_adjustingentry.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_postpayment.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_releasestocks.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_center.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_editbrgy.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_address.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.checkserverSplashScreen.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_additem.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_sys_users.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_items.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_receivestocks.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_suspicious.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_rel_stock_list.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_test.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_progres_bar.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.MDIfrm.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_editcenter.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_editmembers.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_newcenter.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_weavedlg.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_profile_by_occupation.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_profile_by_age.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_promissory_panel.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_progress_report.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_abstractsavings.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_printvouch.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_masterlist_members.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_masterlistSA.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_printsavings.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_performance_officer.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_abstractsavings_CF.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_masterlist_loans.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_printledger.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanrel_consumable.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_amortsched.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_abstractofstocks_rel.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_disclosure.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_promisorry_note.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_stocks_report.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_client_status.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_PAR.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_abstractofcoll.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.loadingscreen.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.SplashScreensave.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_accountype.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_cashiering.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frmcheckby.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_cb_reports.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_loantoberel.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_collectionsheet.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_profile_by_gender.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_deletepyment.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_cbuledger.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_CBUwithdrawals.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_edit_savings_ledger.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_deposit.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_grpposting.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_individualposting.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanProcess_grp.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_newloanlist.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_newmembers.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_psbkdtls.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_withdrawals.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.collfrm.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_members.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_delinquency.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanrel.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.loginfrm.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.Resources.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.SplashScreen.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Credit plus Inventory System.vbproj.GenerateResource.Cache
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_loanProcess_indv_renew.resources
+C:\CW_SourceCode\CMPCsoft\CMPCsoft\obj\Debug\Gsoft.frm_renew_amount.resources
